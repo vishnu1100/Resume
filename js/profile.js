@@ -2,7 +2,7 @@ const profile = {
   title: "VISHNU SANTHOSH",
   job: "Software Developer",
   about:
-    " I'm a junior web developer focused on web designing & backend development using Pytho frameworks like Django. Currently I am developing my skill in the field of frontend development,studying deeper fundamentals and also learning to use a frontend technology.",
+    " I'm a junior web developer focused on web designing & backend development using Python frameworks like Django. Currently I am developing my skill in the field of frontend development,studying deeper fundamentals and also learning to use a frontend technology.",
   address: "Rohini thekkevila p.o, kollam, Kerala",
   email: "vishnusanthoshvr@gmail.com",
   phone: "+91 9526367336",
